@@ -16,7 +16,6 @@ import {
   StyleSheet,
   Easing,
   Animated,
-  Alert,
 } from 'react-native';
 import colors from '../styles/colors';
 
